@@ -1,0 +1,76 @@
+{
+    "employees": [
+    {
+        "id": 1,
+        "name": "Dianna Ganova",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"dianna.ganova@gmail.com",
+        "image": "./public/65028E08-BEA7-46FE-903C-C8DED20044AA.jpg",
+        "position": "CEO",
+        "about": "Dianna offers all the insight and expertise of a native New Yorker, born and raised in Staten Island and currently residing in Brooklyn. She graduated from Berkeley College with a Bachelor of Business Administration in Marketing and Management, then worked for one of the top producers in real estate as a marketing and sales coordinator."
+    },
+    {
+        "id": 2,
+        "name": "Sherilyn Abate ",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"ceosbestie@gmail.com",
+        "image": "https://mediarouting.vestahub.com/Media/114364984/box/500x500 ",
+        "position": "LICENSED RE SALESPERSON",
+        "about": "Having lived abroad many years, mainly in France, Sherilyn's interests are so much related to Europe and the French and English cultures in particular."
+    },
+    {
+        "id": 3,
+        "name": "Zach Aaronson ",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"sleepswithCEO@gmail.com",
+        "image": "https://res.cloudinary.com/corcoran-dryrmqrbg/image/upload/f_auto,q_auto,c_scale,dpr_auto,w_500/AgentApi/Realogy/3ACD48C9-0A47-49B2-90D2-BBBE5E695A7E/A1A1EE65-597C-4F5F-A3E0-A749897B3D07.jpg",
+        "position": "LICENSED RE SALESPERSON",
+        "about":"Zach Aaronson is proud to be a real estate associate at Corcoran Global Living. Founded on the principle of putting people first, Corcoran Global Living serves the California and Nevada markets with more than 40 offices across the Southern California, Northern California and the Reno/Lake Tahoe regions."
+
+    },
+    {
+        "id": 4,
+        "name": "Xavier Quintanilla ",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"thatsmyhusband@gmail.com",
+        "image": "https://res.cloudinary.com/corcoran-dryrmqrbg/image/upload/f_auto,q_auto,c_scale,dpr_auto,w_500/AgentApi/Realogy/D5037B2E-3B6F-4829-822F-6357A8776878/9A40CC99-6360-4C1E-929E-53A3DD78B369.jpg",
+        "position":"LICENSED RE SALESPERSON" ,
+        "about":"Xavier runs a team of three agents that will work on your behalf, providing their full attention and 24/7 accessibility for your every needs. By asking the right questions from the start, and being very sensitive to what you really want—whether that be a pet-friendly building or a home with a great view"
+    },
+    {
+        "id": 5,
+        "name": "David Adler ",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"hestaken@gmail.com",
+        "image": "https://mediarouting.vestahub.com/Media/126978326/box/500x500",
+        "position":"LICENSED RE SALESPERSON",
+        "about": "Born and raised in New York City, David Adler has over 10 years experience selling luxury real estate in Manhattan. Since 2016 he has worked exclusively with the Deborah Grubman Team at Corcoran closing over $700m in sales."
+        
+    },
+    {
+        "id": 6,
+        "name": "Mirella Afonso  ",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"mindyourbusiness@gmail.com",
+        "image": "https://mediarouting.vestahub.com/Media/128944704/box/500x500",
+        "position": "LICENSED RE SALESPERSON",
+        "about": "Mirella came to Manhattan real estate sales and rentals with a diverse and accomplished background in the worlds of fashion, events, PR, branding, sales and client service. " 
+    },
+    {
+        "id": 7,
+        "name": "Felix Aguirre ",
+        "office":"EAST SIDE 590 Madison Avenue New York, NY 10022",
+        "mobile":"917-873-8511",
+        "email":"ceossecretbf@gmail.com",
+        "image": "https://mediarouting.vestahub.com/Media/127792607/box/500x500",
+        "position": "CEOs secret romance, so ofc VP of the company",
+        "about":"Originally from Florida Felix moved to New York 12 years ago. It is then his fascination for Manhattan real estate began to developed. From the architecture of the buildings, to the culture and diversity the city offers it was not hard to fall in love. "
+    }
+    ]
+}
