@@ -18,7 +18,7 @@ const Agents = () => {
   const agentsInfo = agents.map(employee => {return <h1 key={employee.id} employee={employee}> {employee.name} </h1>})
     return (
         <div>
-           {agentsInfo} 
+        
         </div>
     );
 }

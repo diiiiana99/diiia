@@ -1,13 +1,13 @@
-// import React from 'react'
+import React from 'react'
 
 
 
-// function Crib() {
-//   return (
-//     <div>
-//        Hiii
-//     </div>
-//   )
-// }
+function Crib() {
+  return (
+    <div>
+       Hiii
+    </div>
+  )
+}
 
-// export default Crib
+export default Crib
